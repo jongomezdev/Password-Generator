@@ -19,7 +19,7 @@ would create a password based on the criteria they chose which include:
 
 ---
 
-Available for clone or download. Languages used were HTML, CSS & Javascript
+Available for clone or download. Languages used were HTML, CSS & Javascript.
 
 ### Usage Directions:
 
@@ -44,4 +44,4 @@ Available for clone or download. Languages used were HTML, CSS & Javascript
 
 ---
 
-![Preview](Assets/Password Generator.gif)
+![Preview](Password Generator.gif)
