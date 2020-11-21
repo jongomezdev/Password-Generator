@@ -44,4 +44,4 @@ Available for clone or download. Languages used were HTML, CSS & Javascript.
 
 ---
 
-<a href="https://drive.google.com/file/d/1zIEPTa_ysgPksKZRCAKbzKOgA7reugbM/preview" width="640" height="480"></a>
+![Demo](./Demo/Password-Generator.gif)
