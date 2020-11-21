@@ -40,8 +40,8 @@ Available for clone or download. Languages used were HTML, CSS & Javascript.
 1. [GitHub Repo](https://github.com/jongomezdev/Password-Generator)
 2. [Github Live](https://jongomezdev.github.io/Password-Generator/)
 
-### Preview
+### Demo
 
 ---
 
-![Preview](Password Generator.gif)
+![Password Generator Demo](Password-Generator.gif)
